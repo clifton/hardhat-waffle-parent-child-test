@@ -1,0 +1,16 @@
+{
+  "editor.defaultFormatter": "esbenp.prettier-vscode",
+  "editor.formatOnPaste": true,
+  "editor.formatOnSave": true,
+  "editor.tabSize": 2,
+  "solidity.linter": "solhint",
+  "solidity.formatter": "prettier",
+  "solidity.enabledAsYouTypeCompilationErrorCheck": true,
+  "solidity.packageDefaultDependenciesDirectory": "node_modules",
+  "solidity.validationDelay": 1500,
+  "typescript.tsdk": "node_modules/typescript/lib",
+  "eslint.workingDirectories": ["scripts", "test"],
+  "[solidity]": {
+    "editor.tabSize": 4
+  }
+}
